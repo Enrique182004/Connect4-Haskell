@@ -1,0 +1,25 @@
+# Haskell compiled files
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.prof
+
+# Executables
+connect_four
+main
+
+# Cabal build artifacts
+dist/
+dist-newstyle/
+cabal-dev/
+.cabal-sandbox/
+cabal.sandbox.config
+.stack-work/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
